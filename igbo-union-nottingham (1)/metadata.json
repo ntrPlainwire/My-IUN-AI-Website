@@ -1,0 +1,7 @@
+{
+  "name": "Igbo Union Nottingham",
+  "description": "A Community Interest Company dedicated to promoting Igbo culture, unity, and social welfare in Nottingham.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
